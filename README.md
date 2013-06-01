@@ -6,5 +6,9 @@ coffee2python
 把coffee翻译为python  比haxe还要蛋疼
 
 
+参考资料
+http://island205.github.io/2012/10/22/the_compiler_of_coffeescript_1.html
+
+
 
 
